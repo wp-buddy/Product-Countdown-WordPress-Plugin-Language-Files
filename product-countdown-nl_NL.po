@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Countdown for WooCommerce\n"
+"POT-Creation-Date: 2013-07-18 09:15+0100\n"
+"PO-Revision-Date: 2013-07-18 09:15+0100\n"
+"Last-Translator: Florian Simeth <florian.simeth@online.de>\n"
+"Language-Team: Kay van Aarssen <kay@kayvanaarssen.com>\n"
+"Language: nl-NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../classes/wpb_plugin.php:648
+#, php-format
+msgid ""
+"You should consider entering you purchase code for the %s plugin because you "
+"get every update immediately delivered to your WordPress installation."
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:102
+#: ../../classes/wpb_product_countdown.php:187
+msgid "Countdown"
+msgstr "Aftellen"
+
+#: ../../classes/wpb_product_countdown.php:288
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Actie mislukt. Vernieuw de pagina en probeer het opnieuw."
+
+#: ../../classes/wpb_product_countdown.php:300
+msgid "Your customizations have been saved."
+msgstr "Uw aanpassingen zijn opgeslagen."
+
+#: ../../classes/wpb_product_countdown.php:307
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../../classes/wpb_product_countdown.php:332
+msgid "General options"
+msgstr "Algemene opties"
+
+#: ../../classes/wpb_product_countdown.php:338
+msgid "Show \"Fade in\" helper"
+msgstr "Toon \"Fade in\" helper"
+
+#: ../../classes/wpb_product_countdown.php:339
+msgid ""
+"This shows a little helper on the top left of every page that has a "
+"countdown message. It is only shown to administration users."
+msgstr ""
+"Dit laat een kleine helper zien links boven in elke pagina die een aftel "
+"bericht heeft. Het is alleen zichtbaar voor administrator gebruikers."
+
+#: ../../classes/wpb_product_countdown.php:345
+msgid "Global styles"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:346
+msgid "Enter the stylesheets you want to use globally in every countdown."
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:352
+msgid "Purchase Code"
+msgstr "Aankoop Code"
+
+#: ../../classes/wpb_product_countdown.php:354
+#, fuzzy, php-format
+msgid ""
+"In order to get automatic updates you should enter your purchase code. If "
+"you do not know where you can find your purchase code, read this: %s"
+msgstr "Om automatische updates te krijgen moet u uw aankoop code invoeren."
+
+#: ../../classes/wpb_product_countdown.php:354
+msgid "How to find your purchase code"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:360
+msgid "Like this plugin?"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:662
+#: ../../classes/wpb_product_countdown.php:875
+msgid ""
+"It seems that WooCommerce is not installed. Please activate WooCommerce to "
+"use the Product Countdown Plugin."
+msgstr ""
+"Het lijkt erop dat WooCommerce niet is geïnstalleerd. Activeer WooCommerce "
+"voor het gebruik van de Product Countdown Plugin."
+
+#: ../../classes/wpb_product_countdown.php:686
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../../classes/wpb_product_countdown.php:687
+msgid "More Plugins by WPBuddy"
+msgstr "Meer Plugin's door WPBuddy"
+
+#: ../../classes/wpb_product_countdown.php:728
+msgid "Hurry up! The price rises in"
+msgstr "Schiet eens op! De prijs stijgt in"
+
+#: ../../classes/wpb_product_countdown.php:808
+msgid "Years"
+msgstr "Jaren"
+
+#: ../../classes/wpb_product_countdown.php:809
+msgid "Months"
+msgstr "Maanden"
+
+#: ../../classes/wpb_product_countdown.php:810
+msgid "Weeks"
+msgstr "Weken"
+
+#: ../../classes/wpb_product_countdown.php:811
+msgid "Days"
+msgstr "Dagen"
+
+#: ../../classes/wpb_product_countdown.php:812
+msgid "Hours"
+msgstr "Uren"
+
+#: ../../classes/wpb_product_countdown.php:813
+msgid "Minutes"
+msgstr "Minuten"
+
+#: ../../classes/wpb_product_countdown.php:814
+msgid "Seconds"
+msgstr "Seconden"
+
+#: ../../classes/wpb_product_countdown.php:815
+msgid "Year"
+msgstr "Jaar"
+
+#: ../../classes/wpb_product_countdown.php:816
+msgid "Month"
+msgstr "Maand"
+
+#: ../../classes/wpb_product_countdown.php:817
+msgid "Week"
+msgstr "Week"
+
+#: ../../classes/wpb_product_countdown.php:818
+msgid "Day"
+msgstr "Dag"
+
+#: ../../classes/wpb_product_countdown.php:819
+msgid "Hour"
+msgstr "Uur"
+
+#: ../../classes/wpb_product_countdown.php:820
+msgid "Minute"
+msgstr "Minuut"
+
+#: ../../classes/wpb_product_countdown.php:821
+msgid "Second"
+msgstr "Seconde"
+
+#: ../../classes/wpb_product_countdown.php:828
+#, fuzzy
+msgid "Close Countdown"
+msgstr "Aftellen"
+
+#: ../../classes/wpb_product_countdown.php:893
+msgid "Product Countdown Settings"
+msgstr "Product Countdown instellingen"
+
+#: ../../classes/wpb_product_countdown.php:916
+msgid "Choose if the countdown should be on or off on this page."
+msgstr "Kies als het aftellen moet worden in- of uitgeschakeld op deze pagina."
+
+#: ../../classes/wpb_product_countdown.php:918
+msgid "Switch on/off"
+msgstr "Aan/uit schakelen"
+
+#: ../../classes/wpb_product_countdown.php:920
+msgid "OFF"
+msgstr "UIT"
+
+#: ../../classes/wpb_product_countdown.php:921
+msgid "ON"
+msgstr "AAN"
+
+#: ../../classes/wpb_product_countdown.php:923
+msgid "An email has been sent because the countdown has expired."
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:932
+msgid "Product to refer to"
+msgstr "Product om te verwijzen naar"
+
+#: ../../classes/wpb_product_countdown.php:943
+msgid ""
+"Info text. Use $price, $sales_price, $sold_items, $stock_items for a "
+"placeholder."
+msgstr ""
+"Info tekst. Gebruik $price, $sales_price, $sold_items en $stock_items voor "
+"een aanduiding."
+
+#: ../../classes/wpb_product_countdown.php:949
+msgid "Action after the countdown has expired"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:951
+msgid "Nothing"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:952
+msgid "Send E-Mail"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:953
+msgid "Redirect"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:955
+msgid ""
+"Please note that actions will not work for variable products because in this "
+"case one product can have multiple sales dates."
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:958
+msgid "Redirect URL"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:962
+msgid "E-Mail"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:966
+msgid "E-Mail Message"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:970
+msgid "Fade in at position"
+msgstr "Fade-in op positie"
+
+#: ../../classes/wpb_product_countdown.php:976
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: ../../classes/wpb_product_countdown.php:982
+msgid "Font color"
+msgstr "Font kleur"
+
+#: ../../classes/wpb_product_countdown.php:986
+#, fuzzy
+msgid "Fade in from top"
+msgstr "Fade-in op positie"
+
+#: ../../classes/wpb_product_countdown.php:990
+msgid "Custom CSS"
+msgstr "Eigen CSS"
+
+#: ../../classes/wpb_product_countdown.php:993
+msgid "Click here to edit the global CSS styles"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:1379
+#, php-format
+msgid "This is the URL to the countdown page: %s"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:1381
+#, php-format
+msgid "This is the URL to the product page: %s"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:1383
+msgid "Sales Price has expired"
+msgstr ""
+
+#: ../../classes/wpb_product_countdown.php:1561
+msgid "This product variation is not on sale!"
+msgstr ""
