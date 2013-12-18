@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Product Countdown for WooCommerce\n"
-"POT-Creation-Date: 2013-10-09 09:55+0100\n"
-"PO-Revision-Date: 2013-10-09 09:55+0100\n"
+"POT-Creation-Date: 2013-12-18 11:42+0100\n"
+"PO-Revision-Date: 2013-12-18 11:42+0100\n"
 "Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
 "Language-Team: Javier Awwad Merí <jaawme@hotmail.com>\n"
 "Language: es_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.2\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ../..\n"
 
-#: ../../classes/wpb_plugin.php:723
+#: ../../classes/wpb_plugin.php:730
 #, php-format
 msgid ""
 "You should consider entering you purchase code for the %s plugin because you "
@@ -25,32 +25,37 @@ msgstr ""
 "obtenga todas las actualizaciones desde su instalación de WordPress."
 
 #: ../../classes/wpb_product_countdown.php:102
+#: ../../classes/wpb_product_countdown.php:761
+msgid "Settings"
+msgstr "Configuración"
+
 #: ../../classes/wpb_product_countdown.php:188
+#: ../../classes/wpb_product_countdown.php:271
 msgid "Countdown"
 msgstr "Cuenta atrás"
 
-#: ../../classes/wpb_product_countdown.php:288
+#: ../../classes/wpb_product_countdown.php:291
 msgid "Action failed. Please refresh the page and retry."
 msgstr ""
 "Error en la acción. Por favor, actualice la página y vuelva a intentarlo."
 
-#: ../../classes/wpb_product_countdown.php:301
+#: ../../classes/wpb_product_countdown.php:304
 msgid "Your customizations have been saved."
 msgstr "Las personalizaciones se han guardado."
 
-#: ../../classes/wpb_product_countdown.php:309
+#: ../../classes/wpb_product_countdown.php:312
 msgid "Save"
 msgstr "Guardar"
 
-#: ../../classes/wpb_product_countdown.php:334
+#: ../../classes/wpb_product_countdown.php:337
 msgid "General options"
 msgstr "Opciones generales"
 
-#: ../../classes/wpb_product_countdown.php:340
+#: ../../classes/wpb_product_countdown.php:343
 msgid "Show \"Fade in\" helper"
 msgstr "Mostrar \"Fade in\" ayudante"
 
-#: ../../classes/wpb_product_countdown.php:341
+#: ../../classes/wpb_product_countdown.php:344
 msgid ""
 "This shows a little helper on the top left of every page that has a "
 "countdown message. It is only shown to administration users."
@@ -59,33 +64,35 @@ msgstr ""
 "que tiene un mensaje de cuenta atrás. Sólo se mostrará a los usuarios de la "
 "administración."
 
-#: ../../classes/wpb_product_countdown.php:347
-#, fuzzy
+#: ../../classes/wpb_product_countdown.php:350
 msgid "The product to use on the home page"
-msgstr "Esta variante del producto no está en venta"
+msgstr "El producto a utilizar en la página principal"
 
-#: ../../classes/wpb_product_countdown.php:348
+#: ../../classes/wpb_product_countdown.php:351
 msgid ""
 "If you want to use the countdown on the home page, please select the product "
 "that belongs to the countdown. The settings for the countdown can be set on "
 "the product page."
 msgstr ""
+"Si desea utilizar la cuenta atrás en la página principal, por favor "
+"seleccione el producto que pertenece a la cuenta atrás. La configuración de "
+"la cuenta atrás puede ajustarse en la página del producto."
 
-#: ../../classes/wpb_product_countdown.php:354
+#: ../../classes/wpb_product_countdown.php:357
 msgid "Global styles"
 msgstr "Estilos globales"
 
-#: ../../classes/wpb_product_countdown.php:355
+#: ../../classes/wpb_product_countdown.php:358
 msgid "Enter the stylesheets you want to use globally in every countdown."
 msgstr ""
 "Introduzca las hojas de estilo que desea utilizar globalmente en todas las "
 "cuenta atrás."
 
-#: ../../classes/wpb_product_countdown.php:361
+#: ../../classes/wpb_product_countdown.php:364
 msgid "Purchase Code"
 msgstr "Código de compra "
 
-#: ../../classes/wpb_product_countdown.php:363
+#: ../../classes/wpb_product_countdown.php:366
 #, php-format
 msgid ""
 "In order to get automatic updates you should enter your purchase code. If "
@@ -95,16 +102,16 @@ msgstr ""
 "de compra. Si usted no sabe donde se encuentra el código de compra, lea "
 "esto: %s"
 
-#: ../../classes/wpb_product_countdown.php:363
+#: ../../classes/wpb_product_countdown.php:366
 msgid "How to find your purchase code"
 msgstr "¿Cómo encontrar el código de compra?"
 
-#: ../../classes/wpb_product_countdown.php:369
+#: ../../classes/wpb_product_countdown.php:372
 msgid "Like this plugin?"
 msgstr "¿Te gusta este plugin?"
 
-#: ../../classes/wpb_product_countdown.php:733
-#: ../../classes/wpb_product_countdown.php:1012
+#: ../../classes/wpb_product_countdown.php:736
+#: ../../classes/wpb_product_countdown.php:1015
 msgid ""
 "It seems that WooCommerce is not installed. Please activate WooCommerce to "
 "use the Product Countdown Plugin."
@@ -112,109 +119,105 @@ msgstr ""
 "Parece que WooCommerce no está instalado. Por favor, active WooCommerce para "
 "utilizar la cuenta atras."
 
-#: ../../classes/wpb_product_countdown.php:758
-msgid "Settings"
-msgstr "Configuración"
-
-#: ../../classes/wpb_product_countdown.php:759
+#: ../../classes/wpb_product_countdown.php:762
 msgid "More Plugins by WPBuddy"
 msgstr "Más Plugins por WPBuddy"
 
-#: ../../classes/wpb_product_countdown.php:805
+#: ../../classes/wpb_product_countdown.php:808
 msgid "Hurry up! The price rises in"
 msgstr "¡Date prisa! El precio aumenta en"
 
-#: ../../classes/wpb_product_countdown.php:909
+#: ../../classes/wpb_product_countdown.php:912
 msgid "Years"
 msgstr "Años"
 
-#: ../../classes/wpb_product_countdown.php:910
+#: ../../classes/wpb_product_countdown.php:913
 msgid "Months"
 msgstr "Meses"
 
-#: ../../classes/wpb_product_countdown.php:911
+#: ../../classes/wpb_product_countdown.php:914
 msgid "Weeks"
 msgstr "Semanas"
 
-#: ../../classes/wpb_product_countdown.php:912
+#: ../../classes/wpb_product_countdown.php:915
 msgid "Days"
 msgstr "Días"
 
-#: ../../classes/wpb_product_countdown.php:913
+#: ../../classes/wpb_product_countdown.php:916
 msgid "Hours"
 msgstr "Horas"
 
-#: ../../classes/wpb_product_countdown.php:914
+#: ../../classes/wpb_product_countdown.php:917
 msgid "Minutes"
 msgstr "Minutos"
 
-#: ../../classes/wpb_product_countdown.php:915
+#: ../../classes/wpb_product_countdown.php:918
 msgid "Seconds"
 msgstr "Segundos"
 
-#: ../../classes/wpb_product_countdown.php:916
+#: ../../classes/wpb_product_countdown.php:919
 msgid "Year"
 msgstr "Año"
 
-#: ../../classes/wpb_product_countdown.php:917
+#: ../../classes/wpb_product_countdown.php:920
 msgid "Month"
 msgstr "Mes"
 
-#: ../../classes/wpb_product_countdown.php:918
+#: ../../classes/wpb_product_countdown.php:921
 msgid "Week"
 msgstr "Semana"
 
-#: ../../classes/wpb_product_countdown.php:919
+#: ../../classes/wpb_product_countdown.php:922
 msgid "Day"
 msgstr "Día"
 
-#: ../../classes/wpb_product_countdown.php:920
+#: ../../classes/wpb_product_countdown.php:923
 msgid "Hour"
 msgstr "Hora"
 
-#: ../../classes/wpb_product_countdown.php:921
+#: ../../classes/wpb_product_countdown.php:924
 msgid "Minute"
 msgstr "Minuto"
 
-#: ../../classes/wpb_product_countdown.php:922
+#: ../../classes/wpb_product_countdown.php:925
 msgid "Second"
 msgstr "Segundo"
 
-#: ../../classes/wpb_product_countdown.php:929
+#: ../../classes/wpb_product_countdown.php:932
 msgid "Close Countdown"
 msgstr "Cerrar cuenta atrás"
 
-#: ../../classes/wpb_product_countdown.php:1030
+#: ../../classes/wpb_product_countdown.php:1033
 msgid "Product Countdown Settings"
 msgstr "Configuración de Cuenta atrás de producto"
 
-#: ../../classes/wpb_product_countdown.php:1053
+#: ../../classes/wpb_product_countdown.php:1056
 msgid "Choose if the countdown should be on or off on this page."
 msgstr ""
 "Elija si la cuenta atrás debe estar encendida o apagada en esta página."
 
-#: ../../classes/wpb_product_countdown.php:1055
+#: ../../classes/wpb_product_countdown.php:1058
 msgid "Switch on/off"
 msgstr "Encendido / apagado"
 
-#: ../../classes/wpb_product_countdown.php:1057
+#: ../../classes/wpb_product_countdown.php:1060
 msgid "OFF"
 msgstr "OFF"
 
-#: ../../classes/wpb_product_countdown.php:1058
+#: ../../classes/wpb_product_countdown.php:1061
 msgid "ON"
 msgstr "ON"
 
-#: ../../classes/wpb_product_countdown.php:1060
+#: ../../classes/wpb_product_countdown.php:1063
 msgid "An email has been sent because the countdown has expired."
 msgstr ""
 "Un correo electrónico ha sido enviado porque la cuenta atrás ha terminado."
 
-#: ../../classes/wpb_product_countdown.php:1069
+#: ../../classes/wpb_product_countdown.php:1072
 msgid "Product to refer to"
 msgstr "Producto refiere a"
 
-#: ../../classes/wpb_product_countdown.php:1080
+#: ../../classes/wpb_product_countdown.php:1083
 msgid ""
 "Info text. Use $price, $sales_price, $sold_items, $stock_items for a "
 "placeholder, $difference_in_percent."
@@ -222,23 +225,23 @@ msgstr ""
 "Información del texto. Utilice $price, $sales_price, $sold_items, "
 "$stock_items, $difference_in_percent como variables."
 
-#: ../../classes/wpb_product_countdown.php:1086
+#: ../../classes/wpb_product_countdown.php:1089
 msgid "Action after the countdown has expired"
 msgstr "Acción cuando la cuenta atrás termina"
 
-#: ../../classes/wpb_product_countdown.php:1088
+#: ../../classes/wpb_product_countdown.php:1091
 msgid "Nothing"
 msgstr "Nada"
 
-#: ../../classes/wpb_product_countdown.php:1089
+#: ../../classes/wpb_product_countdown.php:1092
 msgid "Send E-Mail"
 msgstr "Enviar email"
 
-#: ../../classes/wpb_product_countdown.php:1090
+#: ../../classes/wpb_product_countdown.php:1093
 msgid "Redirect"
 msgstr "Redireccionar"
 
-#: ../../classes/wpb_product_countdown.php:1092
+#: ../../classes/wpb_product_countdown.php:1095
 msgid ""
 "Please note that actions will not work for variable products because in this "
 "case one product can have multiple sales dates."
@@ -247,56 +250,56 @@ msgstr ""
 "variables, porque en este caso, un producto puede tener varias fechas de "
 "venta."
 
-#: ../../classes/wpb_product_countdown.php:1095
+#: ../../classes/wpb_product_countdown.php:1098
 msgid "Redirect URL"
 msgstr "Redireccionar URL"
 
-#: ../../classes/wpb_product_countdown.php:1099
+#: ../../classes/wpb_product_countdown.php:1102
 msgid "E-Mail"
 msgstr "Email"
 
-#: ../../classes/wpb_product_countdown.php:1103
+#: ../../classes/wpb_product_countdown.php:1106
 msgid "E-Mail Message"
 msgstr "Email mensaje"
 
-#: ../../classes/wpb_product_countdown.php:1107
+#: ../../classes/wpb_product_countdown.php:1110
 msgid "Fade in at position"
 msgstr "Aparición en la posición"
 
-#: ../../classes/wpb_product_countdown.php:1113
+#: ../../classes/wpb_product_countdown.php:1116
 msgid "Background color"
 msgstr "Color de fondo"
 
-#: ../../classes/wpb_product_countdown.php:1119
+#: ../../classes/wpb_product_countdown.php:1122
 msgid "Font color"
 msgstr "Color de la fuente"
 
-#: ../../classes/wpb_product_countdown.php:1123
+#: ../../classes/wpb_product_countdown.php:1126
 msgid "Fade in from top"
 msgstr "Aparición en la parte superior"
 
-#: ../../classes/wpb_product_countdown.php:1127
+#: ../../classes/wpb_product_countdown.php:1130
 msgid "Custom CSS"
 msgstr "CSS personalizadas"
 
-#: ../../classes/wpb_product_countdown.php:1130
+#: ../../classes/wpb_product_countdown.php:1133
 msgid "Click here to edit the global CSS styles"
 msgstr "Haga clic aquí para editar los estilos globales CSS"
 
-#: ../../classes/wpb_product_countdown.php:1562
+#: ../../classes/wpb_product_countdown.php:1565
 #, php-format
 msgid "This is the URL to the countdown page: %s"
 msgstr "Esta es la URL de la página de cuenta atrás: %s"
 
-#: ../../classes/wpb_product_countdown.php:1565
+#: ../../classes/wpb_product_countdown.php:1568
 #, php-format
 msgid "This is the URL to the product page: %s"
 msgstr "Esta es la URL de la página del producto: %s"
 
-#: ../../classes/wpb_product_countdown.php:1568
+#: ../../classes/wpb_product_countdown.php:1571
 msgid "Sales Price has expired"
 msgstr "Precio de venta ha expirado"
 
-#: ../../classes/wpb_product_countdown.php:1804
+#: ../../classes/wpb_product_countdown.php:1807
 msgid "This product variation is not on sale!"
 msgstr "Esta variante del producto no está en venta"
