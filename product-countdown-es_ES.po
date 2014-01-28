@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Product Countdown for WooCommerce\n"
 "POT-Creation-Date: 2014-01-20 13:26+0100\n"
-"PO-Revision-Date: 2014-01-20 13:26+0100\n"
+"PO-Revision-Date: 2014-01-27 21:45+0100\n"
 "Last-Translator: WP-Buddy <info@wp-buddy.com>\n"
 "Language-Team: Javier Awwad Merí <jaawme@hotmail.com>\n"
 "Language: es_ES\n"
@@ -65,16 +65,16 @@ msgstr ""
 "administración."
 
 #: ../../classes/wpb_product_countdown.php:372
-#, fuzzy
 msgid "I'm using a caching plugin"
-msgstr "Esto puede activarse si utilizas más de una versión de jQuery."
+msgstr "Estoy usando un plugin de caché"
 
 #: ../../classes/wpb_product_countdown.php:373
-#, fuzzy
 msgid ""
 "Check this if you're using a caching plugin. This is needed to correct the "
 "countdown."
-msgstr "Cuenta atrás"
+msgstr ""
+"Seleccione esta opción si está usando un plugin de caché. Esto es necesario "
+"para corregir la cuenta atrás."
 
 #: ../../classes/wpb_product_countdown.php:388
 msgid "The product to use on the home page"
@@ -196,9 +196,8 @@ msgid "Second"
 msgstr "Segundo"
 
 #: ../../classes/wpb_product_countdown.php:979
-#, fuzzy
 msgid "Refreshing countdown"
-msgstr "Cuenta atrás"
+msgstr "Actualizar Cuenta atrás"
 
 #: ../../classes/wpb_product_countdown.php:981
 msgid "Close Countdown"
@@ -235,13 +234,12 @@ msgid "Product to refer to"
 msgstr "Producto refiere a"
 
 #: ../../classes/wpb_product_countdown.php:1138
-#, fuzzy
 msgid ""
 "Info text. Use $price, $sales_price, $sold_items, $stock_items, "
 "$difference_in_percent and $sale_price_in_percent for a placeholder."
 msgstr ""
-"Información del texto. Utilice $price, $sales_price, $sold_items, "
-"$stock_items, $difference_in_percent como variables."
+"Texto informativo. Utilice $price, $sales_price, $sold_items, $stock_items, "
+"$difference_in_percent como variables."
 
 #: ../../classes/wpb_product_countdown.php:1144
 msgid "Action after the countdown has expired"
